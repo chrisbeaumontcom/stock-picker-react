@@ -36,7 +36,6 @@ export function sortOrder(items, sizes) {
     const getIndex = (val) => {
       return sizes.indexOf(val);
     };
-    console.log('Start Sorting');
     items.sort((a, b) => {
       var x = getIndex(a.size);
       var y = getIndex(b.size);

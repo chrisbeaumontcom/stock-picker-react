@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function AllocationHead(props) {
+export default function AllocationLegend(props) {
   return (
     <tr>
       <th>{props.col1txt}</th>

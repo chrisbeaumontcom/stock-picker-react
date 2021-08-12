@@ -90,24 +90,32 @@ export default function OrderInfo(props) {
                 &times;
               </button>
             </td>
-            <td>{formatPrice(item.customerPrice * item.ordqty)}</td>
+            <td className="money">
+              {formatPrice(item.customerPrice * item.ordqty)}
+            </td>
           </tr>
         ))}
         {total > 0 && (
           <>
             <tr>
-              <td colSpan="8">Sub Total</td>
-              <td>{formatPrice(subtotal)}</td>
+              <td colSpan="8" className="right">
+                Sub Total
+              </td>
+              <td className="money">{formatPrice(subtotal)}</td>
             </tr>
             {discount > 0 && (
               <tr>
-                <td colSpan="8">Discount ({props.discountPercentage}%)</td>
-                <td>{formatPrice(discount)}</td>
+                <td colSpan="8" className="right">
+                  Discount ({props.discountPercentage}%)
+                </td>
+                <td className="money">{formatPrice(discount)}</td>
               </tr>
             )}
             <tr>
-              <td colSpan="8">Total</td>
-              <td>{props.country + formatPrice(total)}</td>
+              <td colSpan="8" className="right">
+                Total
+              </td>
+              <td className="money">{props.country + formatPrice(total)}</td>
             </tr>
           </>
         )}

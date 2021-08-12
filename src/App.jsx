@@ -1,20 +1,23 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
 import axios from 'axios';
-import TableHeader from './components/AllocationHead';
+import TableLegend from './components/AllocationLegend';
 import SelectCell from './components/AllocationSelectCell';
 import OrderCell from './components/AllocationOrderCell';
 import ImageCell from './components/AllocationImageCell';
 import OrderInfo from './components/OrderInfo';
 import { formatPrice, formatImage, sortOrder } from './utils.js';
+import './App.css';
 
 const config = {
   urlProduct: 'http://localhost:3001/product/',
-  imagePath: 'https://www.gloweavecareer.com',
-  sessionKey: 'Career-order',
+  imagePath:
+    'https://res.cloudinary.com/web-school/image/upload/w_50,q_auto:best/dev/',
+  sessionKey: 'Example-order',
 };
-
+//https://res.cloudinary.com/gloweave/image/upload/w_1200,q_auto:best/career/CAREER-Banners-Main_meh3kp.jpg
+//https://www.gloweavecareer.com
 export default function App() {
+  const [msg, setMsg] = useState('');
   const [loaded, setLoaded] = useState(false);
   const [colours, setColours] = useState([]);
   const [product, setProduct] = useState({});
@@ -92,7 +95,7 @@ export default function App() {
   }
 
   function saveOrder(items) {
-    console.log('Add to storage...');
+    //console.log('Add to storage...');
     sessionStorage.setItem(config.sessionKey, JSON.stringify(items));
   }
 
@@ -133,10 +136,9 @@ export default function App() {
       ordqty: parseInt(input.value),
       qty: parseInt(item.qty),
       img,
-      // thumb: '',
       styletext: product.styletext,
     };
-    console.log(input.value, skuObj);
+    //console.log(input.value, skuObj);
     addLineItem(skuObj);
   };
 
@@ -164,7 +166,7 @@ export default function App() {
           <table className="allocation">
             <thead>
               {loaded && (
-                <TableHeader
+                <TableLegend
                   col1txt={product.style}
                   col2txt="Order"
                   sizelist={product.sizelist}
@@ -198,7 +200,7 @@ export default function App() {
             </tbody>
             <tfoot>
               {loaded && (
-                <TableHeader
+                <TableLegend
                   col1txt=""
                   col2txt=""
                   sizelist={product.sizelist}
