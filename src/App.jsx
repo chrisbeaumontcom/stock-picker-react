@@ -14,8 +14,7 @@ const config = {
     'https://res.cloudinary.com/web-school/image/upload/w_50,q_auto:best/dev/',
   sessionKey: 'Example-order',
 };
-//https://res.cloudinary.com/gloweave/image/upload/w_1200,q_auto:best/career/CAREER-Banners-Main_meh3kp.jpg
-//https://www.gloweavecareer.com
+
 export default function App() {
   const [msg, setMsg] = useState('');
   const [loaded, setLoaded] = useState(false);
