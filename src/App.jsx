@@ -61,12 +61,13 @@ export default function App() {
       }
     } catch (err) {
       console.log('Get Product Error:', err.message);
+      setMsg('Failed to load product...');
     }
   }
 
   function fetchOrderData() {
     console.log('Getting cart...');
-    if (sessionStorage[config.sessionKey]) {
+    if (sessionStorage && sessionStorage[config.sessionKey]) {
       setOrder(JSON.parse(sessionStorage.getItem(config.sessionKey)));
     }
   }
@@ -96,7 +97,11 @@ export default function App() {
 
   function saveOrder(items) {
     //console.log('Add to storage...');
-    sessionStorage.setItem(config.sessionKey, JSON.stringify(items));
+    if (sessionStorage) {
+      sessionStorage.setItem(config.sessionKey, JSON.stringify(items));
+    } else {
+      setMsg('Sorry, storing your order failed.');
+    }
   }
 
   function orderVal(v) {
@@ -163,6 +168,7 @@ export default function App() {
       <header className="App-header">
         <div className="container">
           <h2>Stock Picker for {product.style}</h2>
+          <p>{msg}</p>
           <table className="allocation">
             <thead>
               {loaded && (
