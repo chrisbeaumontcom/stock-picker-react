@@ -9,7 +9,7 @@ import { formatPrice, formatImage, sortOrder } from './utils.js';
 import './App.css';
 
 const config = {
-  urlProduct: 'http://localhost:3001/product/',
+  urlProduct: 'https://api.chrisbeaumont.com/api/product?id=',
   imagePath:
     'https://res.cloudinary.com/web-school/image/upload/w_50,q_auto:best/dev/',
   sessionKey: 'Example-order',
