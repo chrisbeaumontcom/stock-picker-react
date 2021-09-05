@@ -3,18 +3,18 @@
   "style": "1637GF",
   "styletext": "GINGHAM LONG SLEEVE SHIRT",
   "sizelist": "37 38 39 40 41 42 43 44 46 47 49 50 52 54 56 58 60",
-  "userid": "barry@example.com",
-  "accountCode": "3TICKEX",
-  "country": "NZ",
-  "discountPercentage": 5.00,
+  "userid": "freddy@example.com",
+  "accountCode": "9CODXDW",
+  "country": "AU",
+  "discountPercentage": 9.5,
   "zerowarn": true,
   "allocation": [
     {
       "colour": "NAVY",
       "seq": 0,
       "thumb": "1637GF_NAVY_aieidv.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "654699",
@@ -24,11 +24,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "37",
-          "qty": "47",
-          "ordqty": "0",
+          "qty": 29,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654700",
@@ -38,11 +39,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "38",
-          "qty": "24",
-          "ordqty": "0",
+          "qty": 8,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 62,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "654701",
@@ -52,11 +54,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "39",
-          "qty": "12",
-          "ordqty": "0",
+          "qty": 84,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654702",
@@ -66,11 +69,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "40",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 6,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 163,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "654703",
@@ -80,11 +84,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "41",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 42,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654704",
@@ -94,11 +99,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "42",
-          "qty": "1",
-          "ordqty": "0",
+          "qty": 66,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654705",
@@ -108,11 +114,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "43",
-          "qty": "40",
-          "ordqty": "0",
+          "qty": 58,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654706",
@@ -122,11 +129,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "44",
-          "qty": "16",
-          "ordqty": "0",
+          "qty": 50,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654707",
@@ -136,11 +144,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "46",
-          "qty": "35",
-          "ordqty": "0",
+          "qty": 54,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654708",
@@ -150,11 +159,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "47",
-          "qty": "24",
-          "ordqty": "0",
+          "qty": 60,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654709",
@@ -164,11 +174,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "49",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 14,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654710",
@@ -178,11 +189,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "50",
-          "qty": "4",
-          "ordqty": "0",
+          "qty": 26,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654711",
@@ -192,11 +204,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "52",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 41,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654712",
@@ -206,11 +219,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "54",
-          "qty": "14",
-          "ordqty": "0",
+          "qty": 44,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "654713",
@@ -220,11 +234,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "56",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 58,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "683161",
@@ -234,11 +249,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "58",
-          "qty": "13",
-          "ordqty": "0",
+          "qty": 47,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719622",
@@ -248,11 +264,12 @@
           "colour": "NAVY",
           "colourcode": "NVY",
           "size": "60",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 47,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -260,8 +277,8 @@
       "colour": "SKY",
       "seq": 1,
       "thumb": "1637GF_SKY_vbxotb.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "631889",
@@ -271,11 +288,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "37",
-          "qty": "37",
-          "ordqty": "0",
+          "qty": 11,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631890",
@@ -285,11 +303,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "38",
-          "qty": "58",
-          "ordqty": "0",
+          "qty": 47,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631891",
@@ -299,11 +318,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "39",
-          "qty": "53",
-          "ordqty": "0",
+          "qty": 21,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631892",
@@ -313,11 +333,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "40",
-          "qty": "61",
-          "ordqty": "0",
+          "qty": 106,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631893",
@@ -327,11 +348,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "41",
-          "qty": "59",
-          "ordqty": "0",
+          "qty": 77,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631894",
@@ -341,11 +363,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "42",
-          "qty": "53",
-          "ordqty": "0",
+          "qty": 80,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631895",
@@ -355,11 +378,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "43",
-          "qty": "57",
-          "ordqty": "0",
+          "qty": 87,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631896",
@@ -369,11 +393,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "44",
-          "qty": "39",
-          "ordqty": "0",
+          "qty": 76,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631897",
@@ -383,11 +408,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "46",
-          "qty": "27",
-          "ordqty": "0",
+          "qty": 67,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631898",
@@ -397,11 +423,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "47",
-          "qty": "13",
-          "ordqty": "0",
+          "qty": 26,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631899",
@@ -411,11 +438,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "49",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 25,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631900",
@@ -425,11 +453,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "50",
-          "qty": "1",
-          "ordqty": "0",
+          "qty": 29,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631901",
@@ -439,11 +468,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "52",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631902",
@@ -453,11 +483,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "54",
-          "qty": "16",
-          "ordqty": "0",
+          "qty": 26,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631903",
@@ -467,11 +498,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "56",
-          "qty": "4",
-          "ordqty": "0",
+          "qty": 23,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "671299",
@@ -481,11 +513,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "58",
-          "qty": "5",
-          "ordqty": "0",
+          "qty": 10,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719624",
@@ -495,11 +528,12 @@
           "colour": "SKY",
           "colourcode": "SKY",
           "size": "60",
-          "qty": "8",
-          "ordqty": "0",
+          "qty": 11,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -507,8 +541,8 @@
       "colour": "GREY",
       "seq": 2,
       "thumb": "1637GF_GREY_mntqex.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "631825",
@@ -518,11 +552,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "37",
-          "qty": "43",
-          "ordqty": "0",
+          "qty": 29,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631826",
@@ -532,11 +567,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "38",
-          "qty": "24",
-          "ordqty": "0",
+          "qty": 41,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631827",
@@ -546,11 +582,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "39",
-          "qty": "69",
-          "ordqty": "0",
+          "qty": 46,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631828",
@@ -560,11 +597,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "40",
-          "qty": "96",
-          "ordqty": "0",
+          "qty": 109,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631829",
@@ -574,11 +612,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "41",
-          "qty": "98",
-          "ordqty": "0",
+          "qty": 115,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631830",
@@ -588,11 +627,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "42",
-          "qty": "104",
-          "ordqty": "0",
+          "qty": 82,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631831",
@@ -602,11 +642,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "43",
-          "qty": "98",
-          "ordqty": "0",
+          "qty": 50,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631832",
@@ -616,11 +657,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "44",
-          "qty": "109",
-          "ordqty": "0",
+          "qty": 94,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631833",
@@ -630,11 +672,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "46",
-          "qty": "68",
-          "ordqty": "0",
+          "qty": 35,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631834",
@@ -644,11 +687,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "47",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631835",
@@ -658,11 +702,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "49",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 27,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631836",
@@ -672,11 +717,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "50",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 33,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631837",
@@ -686,11 +732,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "52",
-          "qty": "9",
-          "ordqty": "0",
+          "qty": 44,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631838",
@@ -700,11 +747,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "54",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 28,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631839",
@@ -714,11 +762,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "56",
-          "qty": "7",
-          "ordqty": "0",
+          "qty": 24,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "683158",
@@ -728,11 +777,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "58",
-          "qty": "4",
-          "ordqty": "0",
+          "qty": 16,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719618",
@@ -742,11 +792,12 @@
           "colour": "GREY",
           "colourcode": "GRA",
           "size": "60",
-          "qty": "13",
-          "ordqty": "0",
+          "qty": 30,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -754,8 +805,8 @@
       "colour": "TEAL",
       "seq": 3,
       "thumb": "1637GF_TEAL_rdixll.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "631905",
@@ -765,11 +816,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "37",
-          "qty": "4",
-          "ordqty": "0",
+          "qty": 20,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631906",
@@ -779,11 +831,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "38",
-          "qty": "33",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631907",
@@ -793,11 +846,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "39",
-          "qty": "50",
-          "ordqty": "0",
+          "qty": 35,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631908",
@@ -807,11 +861,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "40",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631909",
@@ -821,11 +876,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "41",
-          "qty": "24",
-          "ordqty": "0",
+          "qty": 41,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631910",
@@ -835,11 +891,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "42",
-          "qty": "17",
-          "ordqty": "0",
+          "qty": 29,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631911",
@@ -849,11 +906,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "43",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 46,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631912",
@@ -863,11 +921,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "44",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 37,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631913",
@@ -877,11 +936,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "46",
-          "qty": "13",
-          "ordqty": "0",
+          "qty": 21,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631914",
@@ -891,11 +951,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "47",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 22,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631915",
@@ -905,11 +966,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "49",
-          "qty": "8",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631916",
@@ -919,11 +981,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "50",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 17,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631917",
@@ -933,11 +996,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "52",
-          "qty": "28",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631918",
@@ -947,11 +1011,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "54",
-          "qty": "15",
-          "ordqty": "0",
+          "qty": 10,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631919",
@@ -961,11 +1026,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "56",
-          "qty": "2",
-          "ordqty": "0",
+          "qty": 12,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "671300",
@@ -975,11 +1041,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "58",
-          "qty": "8",
-          "ordqty": "0",
+          "qty": 7,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719625",
@@ -989,11 +1056,12 @@
           "colour": "TEAL",
           "colourcode": "TEA",
           "size": "60",
-          "qty": "6",
-          "ordqty": "0",
+          "qty": 6,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -1001,8 +1069,8 @@
       "colour": "PINK",
       "seq": 4,
       "thumb": "1637GF_PINK_xq1osl.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "664209",
@@ -1012,11 +1080,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "37",
-          "qty": "20",
-          "ordqty": "0",
+          "qty": 17,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664210",
@@ -1026,11 +1095,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "38",
-          "qty": "22",
-          "ordqty": "0",
+          "qty": 15,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664211",
@@ -1040,11 +1110,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "39",
-          "qty": "33",
-          "ordqty": "0",
+          "qty": 31,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664212",
@@ -1054,11 +1125,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "40",
-          "qty": "87",
-          "ordqty": "0",
+          "qty": 73,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664213",
@@ -1068,11 +1140,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "41",
-          "qty": "53",
-          "ordqty": "0",
+          "qty": 51,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664214",
@@ -1082,11 +1155,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "42",
-          "qty": "87",
-          "ordqty": "0",
+          "qty": 79,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664215",
@@ -1096,11 +1170,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "43",
-          "qty": "54",
-          "ordqty": "0",
+          "qty": 50,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664216",
@@ -1110,11 +1185,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "44",
-          "qty": "60",
-          "ordqty": "0",
+          "qty": 54,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664217",
@@ -1124,11 +1200,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "46",
-          "qty": "43",
-          "ordqty": "0",
+          "qty": 41,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664218",
@@ -1138,11 +1215,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "47",
-          "qty": "39",
-          "ordqty": "0",
+          "qty": 33,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664219",
@@ -1152,11 +1230,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "49",
-          "qty": "22",
-          "ordqty": "0",
+          "qty": 17,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664220",
@@ -1166,11 +1245,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "50",
-          "qty": "13",
-          "ordqty": "0",
+          "qty": 6,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 30,
+          "bkorder_date": "2022-01-03"
         },
         {
           "sku": "664221",
@@ -1180,11 +1260,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "52",
-          "qty": "20",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664222",
@@ -1194,11 +1275,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "54",
-          "qty": "6",
-          "ordqty": "0",
+          "qty": 0,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 20,
+          "bkorder_date": "2022-01-03"
         },
         {
           "sku": "664223",
@@ -1208,11 +1290,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "56",
-          "qty": "6",
-          "ordqty": "0",
+          "qty": 2,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 20,
+          "bkorder_date": "2022-01-03"
         },
         {
           "sku": "683160",
@@ -1222,11 +1305,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "58",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 0,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719621",
@@ -1236,11 +1320,12 @@
           "colour": "PINK",
           "colourcode": "PNK",
           "size": "60",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 0,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -1248,8 +1333,8 @@
       "colour": "CRIMSON",
       "seq": 5,
       "thumb": "1637GF_CRIMSON_pl3v4p.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "631873",
@@ -1259,11 +1344,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "37",
-          "qty": "14",
-          "ordqty": "0",
+          "qty": 1,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 20,
+          "bkorder_date": "2022-01-03"
         },
         {
           "sku": "631874",
@@ -1273,11 +1359,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "38",
-          "qty": "16",
-          "ordqty": "0",
+          "qty": 17,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631875",
@@ -1287,11 +1374,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "39",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 39,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631876",
@@ -1301,11 +1389,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "40",
-          "qty": "8",
-          "ordqty": "0",
+          "qty": 65,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631877",
@@ -1315,11 +1404,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "41",
-          "qty": "7",
-          "ordqty": "0",
+          "qty": 43,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631878",
@@ -1329,11 +1419,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "42",
-          "qty": "6",
-          "ordqty": "0",
+          "qty": 26,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631879",
@@ -1343,11 +1434,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "43",
-          "qty": "121",
-          "ordqty": "0",
+          "qty": 101,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631880",
@@ -1357,11 +1449,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "44",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 37,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631881",
@@ -1371,11 +1464,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "46",
-          "qty": "28",
-          "ordqty": "0",
+          "qty": 45,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631882",
@@ -1385,11 +1479,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "47",
-          "qty": "11",
-          "ordqty": "0",
+          "qty": 25,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631883",
@@ -1399,11 +1494,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "49",
-          "qty": "15",
-          "ordqty": "0",
+          "qty": 15,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631884",
@@ -1413,11 +1509,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "50",
-          "qty": "8",
-          "ordqty": "0",
+          "qty": 19,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631885",
@@ -1427,11 +1524,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "52",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631886",
@@ -1441,11 +1539,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "54",
-          "qty": "12",
-          "ordqty": "0",
+          "qty": 20,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "631887",
@@ -1455,11 +1554,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "56",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 8,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 10,
+          "bkorder_date": "2022-01-03"
         },
         {
           "sku": "683162",
@@ -1469,11 +1569,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "58",
-          "qty": "2",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719623",
@@ -1483,11 +1584,12 @@
           "colour": "CRIMSON",
           "colourcode": "CRI",
           "size": "60",
-          "qty": "2",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     },
@@ -1495,8 +1597,8 @@
       "colour": "LILAC",
       "seq": 6,
       "thumb": "1637GF_LILAC_sm9dyf.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "664193",
@@ -1506,11 +1608,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "37",
-          "qty": "19",
-          "ordqty": "0",
+          "qty": 11,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664194",
@@ -1520,11 +1623,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "38",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 17,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664195",
@@ -1534,11 +1638,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "39",
-          "qty": "9",
-          "ordqty": "0",
+          "qty": 18,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664196",
@@ -1548,11 +1653,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "40",
-          "qty": "15",
-          "ordqty": "0",
+          "qty": 7,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 52,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "664197",
@@ -1562,11 +1668,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "41",
-          "qty": "15",
-          "ordqty": "0",
+          "qty": 19,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664198",
@@ -1576,11 +1683,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "42",
-          "qty": "33",
-          "ordqty": "0",
+          "qty": 5,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 51,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "664199",
@@ -1590,11 +1698,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "43",
-          "qty": "15",
-          "ordqty": "0",
+          "qty": 0,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 39,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "664200",
@@ -1604,11 +1713,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "44",
-          "qty": "26",
-          "ordqty": "0",
+          "qty": 28,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664201",
@@ -1618,11 +1728,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "46",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 19,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664202",
@@ -1632,11 +1743,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "47",
-          "qty": "16",
-          "ordqty": "0",
+          "qty": 16,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664203",
@@ -1646,11 +1758,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "49",
-          "qty": "3",
-          "ordqty": "0",
+          "qty": 13,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664204",
@@ -1660,11 +1773,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "50",
-          "qty": "14",
-          "ordqty": "0",
+          "qty": 14,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664205",
@@ -1674,11 +1788,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "52",
-          "qty": "6",
-          "ordqty": "0",
+          "qty": 12,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664206",
@@ -1688,11 +1803,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "54",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 16,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664207",
@@ -1702,11 +1818,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "56",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 9,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 11,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "683159",
@@ -1716,11 +1833,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "58",
-          "qty": "1",
-          "ordqty": "0",
+          "qty": 4,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 5,
+          "bkorder_date": "2021-10-05"
         },
         {
           "sku": "719620",
@@ -1730,11 +1848,12 @@
           "colour": "LILAC",
           "colourcode": "LIL",
           "size": "60",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 4,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 5,
+          "bkorder_date": "2021-10-05"
         }
       ]
     },
@@ -1742,8 +1861,8 @@
       "colour": "BLACK",
       "seq": 7,
       "thumb": "1637GF_BLACK_qgkedf.jpg",
-      "price": 39.00,
-      "customerPrice": 39.00,
+      "price": 33.0,
+      "customerPrice": 33.0,
       "sizes": [
         {
           "sku": "664177",
@@ -1753,11 +1872,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "37",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 20,
           "sizeseq": 1,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664178",
@@ -1767,11 +1887,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "38",
-          "qty": "28",
-          "ordqty": "0",
+          "qty": 24,
           "sizeseq": 2,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664179",
@@ -1781,11 +1902,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "39",
-          "qty": "54",
-          "ordqty": "0",
+          "qty": 68,
           "sizeseq": 3,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664180",
@@ -1795,11 +1917,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "40",
-          "qty": "71",
-          "ordqty": "0",
+          "qty": 51,
           "sizeseq": 4,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664181",
@@ -1809,11 +1932,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "41",
-          "qty": "79",
-          "ordqty": "0",
+          "qty": 58,
           "sizeseq": 5,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664182",
@@ -1823,11 +1947,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "42",
-          "qty": "80",
-          "ordqty": "0",
+          "qty": 111,
           "sizeseq": 6,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664183",
@@ -1837,11 +1962,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "43",
-          "qty": "60",
-          "ordqty": "0",
+          "qty": 37,
           "sizeseq": 7,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664184",
@@ -1851,11 +1977,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "44",
-          "qty": "68",
-          "ordqty": "0",
+          "qty": 85,
           "sizeseq": 8,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664185",
@@ -1865,11 +1992,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "46",
-          "qty": "36",
-          "ordqty": "0",
+          "qty": 37,
           "sizeseq": 9,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664186",
@@ -1879,11 +2007,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "47",
-          "qty": "31",
-          "ordqty": "0",
+          "qty": 45,
           "sizeseq": 10,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664187",
@@ -1893,11 +2022,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "49",
-          "qty": "25",
-          "ordqty": "0",
+          "qty": 16,
           "sizeseq": 11,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664188",
@@ -1907,11 +2037,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "50",
-          "qty": "9",
-          "ordqty": "0",
+          "qty": 28,
           "sizeseq": 12,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664189",
@@ -1921,11 +2052,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "52",
-          "qty": "22",
-          "ordqty": "0",
+          "qty": 26,
           "sizeseq": 13,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664190",
@@ -1935,11 +2067,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "54",
-          "qty": "10",
-          "ordqty": "0",
+          "qty": 33,
           "sizeseq": 14,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "664191",
@@ -1949,11 +2082,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "56",
-          "qty": "14",
-          "ordqty": "0",
+          "qty": 29,
           "sizeseq": 15,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "671298",
@@ -1963,11 +2097,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "58",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 11,
           "sizeseq": 16,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         },
         {
           "sku": "719619",
@@ -1977,11 +2112,12 @@
           "colour": "BLACK",
           "colourcode": "BLK",
           "size": "60",
-          "qty": "0",
-          "ordqty": "0",
+          "qty": 12,
           "sizeseq": 17,
-          "price": 39.00,
-          "customerPrice": 39.00
+          "price": 33.0,
+          "customerPrice": 33.0,
+          "bkorder": 0,
+          "bkorder_date": ""
         }
       ]
     }

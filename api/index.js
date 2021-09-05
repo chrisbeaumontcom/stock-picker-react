@@ -1,5 +1,5 @@
 const http = require('http');
-const product = require('./product.json');
+const product = require('./product-26.json');
 
 http
   .createServer(function (req, res) {

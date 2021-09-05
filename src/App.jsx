@@ -1,3 +1,7 @@
+// Stock picker designed to add to a wholesale apparel catalogue
+// Selections from each product page are added to a JSON array
+// and saved to session storage where they can be all be displayed
+// on a checkout page
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import TableLegend from './components/AllocationLegend';
@@ -8,6 +12,7 @@ import OrderInfo from './components/OrderInfo';
 import { formatPrice, formatImage, sortOrder } from './utils.js';
 import './App.css';
 
+// http://localhost:3001/product/
 const config = {
   urlProduct: 'https://api.chrisbeaumont.com/api/product?id=',
   imagePath:
@@ -36,7 +41,7 @@ export default function App() {
       const response = await axios.get(endpoint);
       if (response && response.data && response.data.success === true) {
         const data = response.data;
-        //console.log('Get Product:', data);
+        console.log('Get Product:', data);
         if (data && data.success === true) {
           setColours(data.allocation);
           const newProduct = {
@@ -73,9 +78,7 @@ export default function App() {
 
   function addLineItem(sku) {
     const filterOrder = order.filter((item) => {
-      if (sku.itemid !== item.itemid) {
-        return item;
-      }
+      return sku.itemid !== item.itemid;
     });
     const newSKU = { ...sku, styletext: product.styletext };
     const newOrder = [...filterOrder, newSKU];
@@ -86,9 +89,7 @@ export default function App() {
 
   function removeLineItem(sku) {
     const filterOrder = order.filter((item) => {
-      if (sku.itemid !== item.itemid) {
-        return item;
-      }
+      return sku.itemid !== item.itemid;
     });
     setOrder(filterOrder);
     saveOrder(filterOrder);
@@ -108,44 +109,6 @@ export default function App() {
     return result ? result.ordqty : '';
   }
 
-  function colourItems(style, colour) {
-    return order.filter((el) => {
-      if (el.colour === colour && el.style === style) {
-        return true;
-      }
-    });
-  }
-
-  const handleChange = (input, item, img) => {
-    const valTest = /^-?[0-9]+$/;
-    const initQty = '';
-    const inputVal = input.value;
-    if (inputVal === '' || inputVal === '0') {
-      removeLineItem(item);
-      input.value = '';
-      return;
-    }
-    if (inputVal != '' && !valTest.test(inputVal)) {
-      alert('Warning: not a number.');
-      input.value = initQty;
-      return;
-    }
-    if (inputVal != '' && parseInt(inputVal) > parseInt(item.qty)) {
-      alert('Warning: too high.');
-      input.value = initQty;
-      return;
-    }
-    const skuObj = {
-      ...item,
-      ordqty: parseInt(input.value),
-      qty: parseInt(item.qty),
-      img,
-      styletext: product.styletext,
-    };
-    //console.log(input.value, skuObj);
-    addLineItem(skuObj);
-  };
-
   function updateBag(count) {
     var display = document.getElementById('bagdisplay');
     if (display) {
@@ -157,6 +120,37 @@ export default function App() {
       }
     }
   }
+
+  const colourItems = (style, colour) => {
+    return order.filter((el) => {
+      return el.colour === colour && el.style === style;
+    });
+  };
+
+  const handleChange = (input, item, img) => {
+    const valTest = /^-?[0-9]+$/;
+    const inputVal = input.value;
+    if (inputVal === '' || inputVal === '0') {
+      removeLineItem(item);
+      return;
+    }
+    if (inputVal != '' && !valTest.test(inputVal)) {
+      alert('Warning: not a number.');
+      return;
+    }
+    if (inputVal != '' && parseInt(inputVal) > parseInt(item.qty)) {
+      alert('Warning: too high.');
+      return;
+    }
+    const skuObj = {
+      ...item,
+      ordqty: parseInt(inputVal),
+      qty: parseInt(item.qty),
+      img,
+      styletext: product.styletext,
+    };
+    addLineItem(skuObj);
+  };
 
   return (
     <div className="App">

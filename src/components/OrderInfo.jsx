@@ -1,3 +1,5 @@
+// This component is a table that displays a list of selected
+// SKUs for this style page only as well as discount and totals
 import React, { useState, useEffect } from 'react';
 import { formatPrice } from '../utils.js';
 
