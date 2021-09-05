@@ -3,60 +3,31 @@ import { formatPrice } from '../utils.js';
 
 export default function OrderInfo(props) {
   const [lineitems, setLineitems] = useState([]);
-  const [subtotal, setSubtotal] = useState(0);
-  const [discount, setDiscount] = useState(0);
-  const [total, setTotal] = useState(0);
 
   useEffect(() => {
-    if (props.discountPercentage) {
-      countOrder(props.discountPercentage);
-    }
-    setLineitems(styleItems(props.order, props.style));
+    setLineitems(
+      props.order.filter((el) => {
+        return el.style === props.style;
+      })
+    );
+    props.updateBag(count);
   }, [props.order]);
 
-  function styleItems(order, style) {
-    return order.filter((el) => {
-      if (el.style === style) {
-        return true;
+  // Count whole order
+  const count = props.order.reduce((total, acc) => {
+    return total + parseInt(acc.ordqty);
+  }, 0);
+  // Get sub total for this style only
+  const subtotal =
+    props.order.reduce((total, acc) => {
+      if (acc.style === props.style) {
+        return total + parseFloat(acc.customerPrice) * 100 * acc.ordqty;
       }
-    });
-  }
-
-  function countOrder(discountPercentage) {
-    let count = 0; // all order
-    let orderSubtotal = 0;
-    let orderTotal = 0;
-    let styleSubtotal = 0;
-    let styleTotal = 0;
-    let styleDiscount = 0;
-
-    props.order.forEach((item) => {
-      //Count whole order
-      count += item.ordqty;
-      //Subtotal for whole order
-      orderSubtotal += parseFloat(item.customerPrice) * item.ordqty;
-      if (props.style && props.style === item.style) {
-        //Sub total for this Style
-        styleSubtotal += parseFloat(item.customerPrice) * item.ordqty;
-      }
-    });
-
-    if (orderSubtotal > 0) {
-      orderTotal =
-        orderSubtotal - (orderSubtotal * parseFloat(discountPercentage)) / 100;
-    }
-
-    if (styleSubtotal > 0) {
-      styleDiscount = (styleSubtotal * parseFloat(discountPercentage)) / 100;
-      styleTotal = styleSubtotal - styleDiscount;
-    }
-
-    setSubtotal(styleSubtotal);
-    setDiscount(styleDiscount);
-    setTotal(styleTotal);
-    props.updateBag(count, orderTotal);
-    //console.log('OrderInfo Component countOrder():', count);
-  }
+    }, 0) / 100;
+  // Calculate discount
+  const discount = (subtotal * parseFloat(props.discountPercentage)) / 100;
+  // Total for this style selection
+  const total = subtotal - discount;
 
   return (
     <table className="page-order">

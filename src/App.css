@@ -63,6 +63,7 @@ table.page-order td {
 }
 table.page-order td input {
   width: 20px;
+  text-align: center;
 }
 table.page-order td.thumb-col {
   padding: 1px;

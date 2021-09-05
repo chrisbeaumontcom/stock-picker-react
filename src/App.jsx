@@ -146,16 +146,12 @@ export default function App() {
     addLineItem(skuObj);
   };
 
-  function updateBag(count, total) {
+  function updateBag(count) {
     var display = document.getElementById('bagdisplay');
     if (display) {
       if (count > 0) {
         display.innerHTML =
-          '<a href="/checkout">My Cart [' +
-          count +
-          '] items $' +
-          total.toFixed(2) +
-          '</a>';
+          '<a href="/checkout">My Cart [' + count + '] items</a>';
       } else {
         display.innerHTML = 'My Cart 0 items';
       }
